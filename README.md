@@ -1,5 +1,3 @@
-Sure! Here's an example of a README.md file for the project "Chess-super-killer-swag-trainer":
-
 # Chess Super Killer Swag Trainer
 
 Chess Super Killer Swag Trainer is a web-based chess environment that aims to help users learn the basics and develop the mental skills required for chess. It utilizes Electron.js and Python to create an interactive user interface and a powerful backend.
