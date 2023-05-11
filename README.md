@@ -1,1 +1,1 @@
-# chess-super.killer-swag-trainer
+# chess-super-killer-swag-trainer
